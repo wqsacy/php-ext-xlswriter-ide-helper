@@ -1,11 +1,11 @@
 {
-    "name": "viest/php-ext-xlswriter-ide-helper",
-    "description": "PHP Extension Xlswriter IDE Helper",
+    "name": "wangqs/xlswriter_ide_helper",
+    "description": "PHP Extension Xlswriter IDE Helper Forked from viest/php-ext-xlswriter-ide-helper",
     "license": "MIT",
     "authors": [
         {
-            "name": "viest",
-            "email": "wjx@php.net"
+            "name": "wangqs",
+            "email": "wqsacy@vip.qq.com"
         }
     ],
     "autoload": {

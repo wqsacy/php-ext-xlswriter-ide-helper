@@ -9,7 +9,7 @@ pecl install xlswriter
 ### IDE Helper
 
 ```bash
-composer require viest/php-ext-xlswriter-ide-helper:dev-master
+composer require wangqs/xlswriter_ide_helper
 ```
 
 ## Document
